@@ -1,8 +1,8 @@
 {
   "name": "electron-gen",
   "productName": "ElectronGen",
-  "version": "0.0.0",
-  "description": "My lovely app",
+  "version": "0.1.0",
+  "description": "Test app from gen",
   "license": "MIT",
   "repository": "drulm/electron-gen",
   "author": {
